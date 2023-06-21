@@ -19,6 +19,6 @@ pg.press("Enter")
 #performs a calculation
 time.sleep(1)
 pg.press("2")
-pg.hotkey("shiftleft","=")
+pg.hotkey("shiftleft","8")
 pg.press("2")
 pg.press("=")

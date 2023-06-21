@@ -1,3 +1,4 @@
-import pyautogui as pag
-img = pag.screenshot()
+import pyautogui as pg
+
+img = pg.screenshot()
 img.save("img.png")
